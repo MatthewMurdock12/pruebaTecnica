@@ -1,0 +1,8 @@
+# Ignorar la metadata de un IDE
+.vscode/
+
+# Ignorar los binarios
+*.class
+
+# Ignorar las dependencias
+node_modules/
